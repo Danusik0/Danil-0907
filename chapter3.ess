@@ -1,7 +1,7 @@
-// 2.3. Создание 5 переменных, каждая из которых содержит одну букву, и вывод "B-I-N-G-O"
-letter1 = "B"
-letter2 = "I"
-letter3 = "N"
-letter4 = "G"
-letter5 = "O"
-PRINT letter1 + "-" + letter2 + "-" + letter3 + "-" + letter4 + "-" + letter5
+// 2.3. Создание 5 переменных, каждая содержит одну букву, и вывод "B-I-N-G-O"
+letter1 = "B";
+letter2 = "I";
+letter3 = "N";
+letter4 = "G";
+letter5 = "O";
+print(letter1 + "-" + letter2 + "-" + letter3 + "-" + letter4 + "-" + letter5);

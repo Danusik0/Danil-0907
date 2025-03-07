@@ -1,12 +1,13 @@
 // 2.4. Вывод схематичного дизайна банковской карточки с подстановкой данных из переменных
-cardNumber = "1234 5678 9012 3456"
-cardHolder = "IVAN IVANOV"
-expiryDate = "12/25"
-bankName = "Sample Bank"
-PRINT "-----------------------------"
-PRINT "| " + bankName + "            |"
-PRINT "| CARD NUMBER:              |"
-PRINT "| " + cardNumber + " |"
-PRINT "| CARD HOLDER: " + cardHolder + " |"
-PRINT "| EXPIRY DATE: " + expiryDate + "          |"
-PRINT "-----------------------------"
+cardNumber = "1234 5678 9012 3456";
+cardHolder = "IVAN IVANOV";
+expiryDate = "12/25";
+bankName = "Sample Bank";
+
+print("-----------------------------");
+print("| " + bankName + "            |");
+print("| CARD NUMBER:              |");
+print("| " + cardNumber + " |");
+print("| CARD HOLDER: " + cardHolder + " |");
+print("| EXPIRY DATE: " + expiryDate + "          |");
+print("-----------------------------");

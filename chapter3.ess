@@ -1,7 +1,17 @@
 // 2.3. Создание 5 переменных, каждая содержит одну букву, и вывод "B-I-N-G-O"
-letter1 = "B";
-letter2 = "I";
-letter3 = "N";
-letter4 = "G";
-letter5 = "O";
-print(letter1 + "-" + letter2 + "-" + letter3 + "-" + letter4 + "-" + letter5);
+start
+
+new B string
+new I string
+new N string
+new G string
+new O string
+
+set B "B"
+set I "I"
+set N "N"
+set G "G"
+set O "O"
+
+log string B>> "-">> I >> "-" >> N >> "-" >> G >> "-" >>O
+finish
